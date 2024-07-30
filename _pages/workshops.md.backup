@@ -25,8 +25,6 @@ The [AIstroSight team](https://team.inria.fr/aistrosight/), Inria Lyon, is organ
 Registration is free but mandatory. 
 Please follow [this link](https://club-de-cellules-gliales.assoconnect.com/collect/description/450527-v-linking-brain-structure-function-at-the-nanoscale-an-interdisciplinary-workshop ) to register.
 
-<iframe id="iframe_assoconnect" src="https://club-de-cellules-gliales.assoconnect.com/collect/description/450527-v-linking-brain-structure-function-at-the-nanoscale-an-interdisciplinary-workshop?iframe=1" width="100%" style="overflow: hidden; border: 0; max-height: none;" scrolling="no" onload="window.location.href='#iframe_assoconnect'"></iframe><script>window.addEventListener("message", function(event) {if(event.data.action === "iframe.height" && (event.origin === "https://club-de-cellules-gliales.assoconnect.com" || event.origin === "https://pay.assoconnect.com")){document.getElementById("iframe_assoconnect").height = event.data.height;}});</script><style>#iframe_assoconnect{border: 0}</style>
-
 Please note that on-site registration is limited to 40 people. However, there is no limit to the number of online participants. Link to the videoconference will be emailed to confirmed participants, along with a link to an online discussion platform that will facilitate interaction between online and on-site participants.
 
 ### Venue
