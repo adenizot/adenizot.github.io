@@ -47,6 +47,12 @@ For further information or questions, please contact audrey dot denizot at inria
 ## Schedule
 <table>
     <tr>
+      <th width="15%"></th>
+      <th width="15%"></th>
+      <th width="15%"></th>
+      <th width="55%"></th>
+    </tr>
+    <tr>
         <td>San Diego (UTC -7)</td>
         <td>Lyon (UTC +2)</td>
         <td>Tokyo (UTC +9)</td>
