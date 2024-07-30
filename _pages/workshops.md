@@ -176,6 +176,9 @@ For further information or questions, please contact audrey dot denizot at inria
 \
 &nbsp;
 
+<body>
+    <hr width="100%" size="2">
+</body>
 
 # Computational approaches for studying astrocyte dynamics and astrocyte-neuron communication
 ![Poster of the CNS 2021 workshop](/images/workshops/workshop-cns2021.jpg)
@@ -187,6 +190,13 @@ Speakers: Yukiko Goda, Riken, Japan; Alla Borisyuk, University of Utah, USA; Jen
 More information on the workshop can be found on the [dedicated website](https://astrocytenet.org/cns2021-online-workshop/).
 
 Most talks have been recorded and are available on the [Youtube](https://www.youtube.com/channel/UCqz8NIG24tV1HHCkKidA4Nw/videos) account of the OCNS (Workshop 1, CNS*2021).
+
+\
+&nbsp;
+
+<body>
+    <hr width="100%" size="2">
+</body>
 
 # Let's join forces - Bridging the gap between experimental, computational and data sciences to disentangle astrocyte calcium activity
 ![Interdisciplinary collaboration at ESN 2021](/images/workshops/workshop-esn2021.png)
