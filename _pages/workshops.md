@@ -177,7 +177,7 @@ For further information or questions, please contact audrey dot denizot at inria
 &nbsp;
 
 <body>
-    <hr width="100%" size="2">
+    <hr width="500%" size="2">
 </body>
 
 # Computational approaches for studying astrocyte dynamics and astrocyte-neuron communication
@@ -195,7 +195,7 @@ Most talks have been recorded and are available on the [Youtube](https://www.you
 &nbsp;
 
 <body>
-    <hr width="100%" size="2">
+    <hr width="500%" size="2">
 </body>
 
 # Let's join forces - Bridging the gap between experimental, computational and data sciences to disentangle astrocyte calcium activity
