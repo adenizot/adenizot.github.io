@@ -78,7 +78,7 @@ For further information or questions, please contact audrey dot denizot at inria
         <td>02:00 - 02:30</td>
         <td>11:00 - 11:30</td>
         <td>18:00 - 18:30</td>
-        <td>*Break*</td>
+        <td>Break</td>
     </tr>
     <tr>
         <td>02:30 - 03:30</td>
@@ -91,7 +91,7 @@ For further information or questions, please contact audrey dot denizot at inria
         <td>03:30 - 05:00</td>
         <td>12:30 - 14:00</td>
         <td>19:30 - 21:00</td>
-        <td>*Break*</td>
+        <td>Break</td>
     </tr>
     <tr>
         <td>05:00 - 06:00</td>
@@ -103,13 +103,13 @@ For further information or questions, please contact audrey dot denizot at inria
         <td>06:00 - 07:00</td>
         <td>15:00 - 16:00</td>
         <td>22:00 - 23:00</td>
-        <td>Daniel Keller, Ecole Polytechnique Federale de Lausanne, Switzerland <BR> “Reconstruction and Simulation of Metabolism and Blood Flow in the Neuro-Glia-Vasculature System.”</td>
+        <td>Daniel Keller, EPFL, Switzerland <BR> “Reconstruction and Simulation of Metabolism and Blood Flow in the Neuro-Glia-Vasculature System.”</td>
     </tr>
     <tr>
         <td>07:00 - 07:30</td>
         <td>16:00 - 16:30</td>
         <td>23:00-23:30</td>
-        <td>*Break*</td>
+        <td>Break</td>
     </tr>
     <tr>
         <td>07:30 - 08:30</td>
@@ -133,7 +133,7 @@ For further information or questions, please contact audrey dot denizot at inria
         <td>01:00 - 01:30</td>
         <td>10:00 - 10:30</td>
         <td>17:00 - 17:30</td>
-        <td>*Break*</td>
+        <td>Break</td>
     </tr>
     <tr>
         <td>01:30 - 02:30</td>
@@ -145,7 +145,7 @@ For further information or questions, please contact audrey dot denizot at inria
         <td>02:30 - 04:00</td>
         <td>11:30 - 13:00</td>
         <td>18:30 - 20:00</td>
-        <td>*Break*</td>
+        <td>Break</td>
     </tr>
     <tr>
         <td>04:00 - 05:00</td>
@@ -163,13 +163,13 @@ For further information or questions, please contact audrey dot denizot at inria
         <td>06:00 - 06:30</td>
         <td>15:00 - 15:30</td>
         <td>22:00 - 22:30</td>
-        <td>*Break*</td>
+        <td>Break</td>
     </tr>
     <tr>
         <td>06:30 - 07:30</td>
         <td>15:30 - 16:30</td>
         <td>22:30 - 23:30</td>
-        <td>Erik De Schutter, Okinawa Institute of Science and Technology, Japan <BR> “Active enhancement of synapse driven depolarization of perisynaptic astrocytic processes”</td>
+        <td>Erik De Schutter, OIST, Japan <BR> “Active enhancement of synapse driven depolarization of perisynaptic astrocytic processes”</td>
     </tr>
 </table>
 
