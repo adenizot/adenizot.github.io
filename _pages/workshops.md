@@ -173,6 +173,10 @@ For further information or questions, please contact audrey dot denizot at inria
     </tr>
 </table>
 
+\
+&nbsp;
+
+
 # Computational approaches for studying astrocyte dynamics and astrocyte-neuron communication
 ![Poster of the CNS 2021 workshop](/images/workshops/workshop-cns2021.jpg)
 
