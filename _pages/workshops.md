@@ -62,9 +62,15 @@ For further information or questions, please contact audrey dot denizot at inria
         <td>Speaker</td>
     </tr>
     <tr>
-        <td>September  	26  <BR> 00:00 - 01:00</td>
-        <td>September  	26  <BR> 09:00-10:00</td>
-        <td>September  	26  <BR> 16:00 - 17:00</td>
+        <td>September  	26</td>
+        <td>September  	26</td>
+        <td>September  	26</td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>00:00 - 01:00</td>
+        <td>09:00-10:00</td>
+        <td>16:00 - 17:00</td>
         <td>Constantin Pape, University of Göttingen, Germany <BR> “Bridging brain and body in the fruitfly larva with electron microscopy and deep learning”</td>
     </tr>
     <tr>
@@ -124,9 +130,15 @@ For further information or questions, please contact audrey dot denizot at inria
         <td></td>
     </tr>
     <tr>
-        <td>September  	27  <BR> 00:00 - 01:00</td>
-        <td>September  	27  <BR> 09:00-10:00</td>
-        <td>September  	27  <BR> 16:00 - 17:00</td>
+        <td>September  	27</td>
+        <td>September  	27</td>
+        <td>September  	27</td>
+        <td> </td>
+    </tr>
+    <tr>
+        <td>00:00 - 01:00</td>
+        <td>09:00-10:00</td>
+        <td>16:00 - 17:00</td>
         <td>Chris Salmon, McGill University, Canada <BR> “Astrocyte nanoarchitecture and its disruption in an Alzheimer’s disease model.”</td>
     </tr>
     <tr>
