@@ -3,7 +3,7 @@ permalink: /workshops/
 title: "Workshops"
 ---
 # Linking brain structure & function at the nanoscale: an interdisciplinary workshop
-![Poster of the workshop](/images/workshops/workshop-Nanobrain2024.png)
+![Poster of the workshop](/images/workshops/workshop-Nanobrain2024.pdf)
 
 ## Brief Description
 The [AIstroSight team](https://team.inria.fr/aistrosight/), Inria Lyon, is organizing a workshop on **September 26th-27th 2024** entitled **"Linking brain structure & function at the nanoscale: an interdisciplinary workshop"**. 
@@ -22,7 +22,7 @@ The [AIstroSight team](https://team.inria.fr/aistrosight/), Inria Lyon, is organ
 - Chris Salmon, McGill University, Canada
 
 ### Registration
-Registration is free but mandatory. 
+Registration is **free but mandatory**. 
 Please follow [this link](https://club-de-cellules-gliales.assoconnect.com/collect/description/450527-v-linking-brain-structure-function-at-the-nanoscale-an-interdisciplinary-workshop ) to register.
 
 Registration dates: 09/08/2024 - 24/09/2024
