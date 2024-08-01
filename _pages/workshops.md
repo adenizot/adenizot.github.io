@@ -3,7 +3,7 @@ permalink: /workshops/
 title: "Workshops"
 ---
 # Linking brain structure & function at the nanoscale: an interdisciplinary workshop
-![Poster of the workshop](/images/workshops/workshop-Nanobrain2024.png)
+![Poster of the workshop](/images/workshops/workshop-Nanobrain2024.jpg)
 
 ## Brief Description
 The [AIstroSight team](https://team.inria.fr/aistrosight/), Inria Lyon, is organizing a workshop on **September 26th-27th 2024** entitled **"Linking brain structure & function at the nanoscale: an interdisciplinary workshop"**. 
