@@ -25,7 +25,7 @@ The [AIstroSight team](https://team.inria.fr/aistrosight/), Inria Lyon, is organ
 Registration is **free but mandatory**. 
 Please follow [this link](https://club-de-cellules-gliales.assoconnect.com/collect/description/450527-v-linking-brain-structure-function-at-the-nanoscale-an-interdisciplinary-workshop ) to register.
 
-Registration dates: 09/08/2024 - 24/09/2024
+Registration dates: 29/08/2024 - 24/09/2024
 
 Please note that on-site registration is limited to 40 people. However, there is no limit to the number of online participants. Link to the videoconference will be emailed to confirmed participants, along with a link to an online discussion platform that will facilitate interaction between online and on-site participants.
 
@@ -44,7 +44,7 @@ Amphitheater Neuro
 ![Workshop venue](/images/workshops/workshop-venue.png)
 
 ### Sponsors
-This event is sponsored by [Inria Lyon](https://www.inria.fr/en/inria-lyon-centre), [Société des Neurosciences](https://www.neurosciences.asso.fr), and the [French Glial Cell Club](https://frenchglialcellclub.fr/). 
+This event is sponsored by [Inria Lyon](https://www.inria.fr/en/inria-lyon-centre), [Société des Neurosciences](https://www.neurosciences.asso.fr), the [French Glial Cell Club](https://frenchglialcellclub.fr/), [Institut Pierre Wertheimer](https://institut-pierre-wertheimer.fr/), and [Hospices Civils de Lyon](https://recherche.chu-lyon.fr/). 
 
 ### Contact
 For further information or questions, please contact audrey dot denizot at inria dot fr
