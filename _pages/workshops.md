@@ -73,7 +73,7 @@ For further information or questions, please contact audrey dot denizot at inria
         <td>00:00 - 01:00</td>
         <td>09:00-10:00</td>
         <td>16:00 - 17:00</td>
-        <td>Constantin Pape, University of Göttingen, Germany <BR> “Bridging brain and body in the fruitfly larva with electron microscopy and deep learning”</td>
+        <td>Audrey Denizot, Inria, France <BR> "Linking astrocyte nano-architecture and function: insights from computational tools"</td>
     </tr>
     <tr>
         <td>01:00 - 02:00</td>
@@ -171,7 +171,7 @@ For further information or questions, please contact audrey dot denizot at inria
         <td>05:00 - 06:00</td>
         <td>14:00 - 15:00</td>
         <td>21:00 - 22:00</td>
-        <td>Audrey Denizot, Inria, France <BR> "Linking astrocyte nano-architecture and function: insights from computational tools"</td>
+        <td>Constantin Pape, University of Göttingen, Germany <BR> “Bridging brain and body in the fruitfly larva with electron microscopy and deep learning”</td>
     </tr>
     <tr>
         <td>06:00 - 06:30</td>
