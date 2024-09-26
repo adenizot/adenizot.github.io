@@ -171,7 +171,7 @@ For further information or questions, please contact audrey dot denizot at inria
         <td>05:00 - 06:00</td>
         <td>14:00 - 15:00</td>
         <td>21:00 - 22:00</td>
-        <td>Constantin Pape, University of Göttingen, Germany <BR> “Bridging brain and body in the fruitfly larva with electron microscopy and deep learning”</td>
+        <td>Constantin Pape, University of Göttingen, Germany <BR> “Volume EM Segmentation and Applications in Comparative Connectomics”</td>
     </tr>
     <tr>
         <td>06:00 - 06:30</td>

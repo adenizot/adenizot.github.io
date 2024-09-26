@@ -105,7 +105,7 @@ For further information or questions, please contact audrey dot denizot at inria
         <td>05:00 - 06:00</td>
         <td>14:00 - 15:00</td>
         <td>21:00 - 22:00</td>
-        <td>Michael Chirillo, University of Texas, USA <BR> “Volume electron microscopy and the structural plasticity lurking beneath the connectome”</td>
+        <td>Michael Chirillo, University of Texas, USA <BR> “The structural plasticity lurking beneath the connectome”</td>
     </tr>
     <tr>
         <td>06:00 - 07:00</td>
