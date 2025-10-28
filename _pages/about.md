@@ -20,4 +20,4 @@ Please do not hesitate to reach out to me by [email](mailto:audrey.denizot@inria
 Photograph: &copy; Inria / Photo B. Fourrier
 
 ![Image of calcium signals in an astrocyte](images/home/AstroGreen.png)
-&copy; Audrey Denizot. Image representing calcium signals measured in a hippocampal astrocyte using confocal microscopy, created with experimental data from [M. Arizono](https://arizono0202.wixsite.com/misa-arizono).
+&copy; Audrey Denizot. Image representing calcium signals measured in a hippocampal astrocyte using confocal microscopy, created with experimental data from [M. Arizono](https://www.misa-arizono.com/).

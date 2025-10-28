@@ -3,13 +3,13 @@ permalink: /outreach/
 title: "Outreach"
 ---
 
-During my spare time, I enjoy doing some science communication and participating in public outreach events. 
+During my spare time, I enjoy science communication and participating in public outreach events. 
 
 I am a member of the editorial and director boards of [Papier Mâché](https://papiermachesciences.org/), association providing a website for the dissemination of scientific publications, in French. Our goal is to make them accessible and understandable to all French speakers. Follow us on [Facebook](https://www.facebook.com/papiermachesciences/) and [Linkedin](https://www.linkedin.com/company/papier-m%C3%A2ch%C3%A9-sciences/) to learn about our most recent articles!
 
 I wrote a "papier mâché" in 2021, entitled "Le confinement 2.0 : comment la localisation de certaines molécules impacte la capacité des cellules à communiquer". It summarizes the work from [Thillaiappan et al.](https://www.nature.com/articles/s41467-017-01644-8) on the influence of the location of IP3R clusters on calcium activity. You can find it [here](https://papiermachesciences.org/2021/02/21/le-confinement-2-0-comment-la-localisation-de-certaines-molecules-impacte-la-capacite-des-cellules-a-communiquer/?v=C) (in French).
 
-![Artistic photo of thrown dice](/images/outreach/dice-artscience-denizot.jpg)
+![Abstract photo of a thrown dice](/images/outreach/dice-artscience-denizot.jpg)
 "Has'art" &copy; Audrey Denizot. Photography illustrating the randomness of the reactions that I model, represented here with dice in movement.
 
 I have been an active member of the French public outreach and science communication association [DéMesures](https://demesures.jimdoweb.com) from 2017-2020. The aim of the association is to raise awareness of the importance of scales in science and humanities and to awaken critical thinking of the young and general public. Check out their [Facebook](https://www.facebook.com/DMesures/?hc_ref=ARSZ-Ig1maGPB6uumgyP2A9Q4uq1yoVLq4fU--GujY9oDTHyql0jWP7Kqmzs2Od6BXY) and [YouTube](https://www.youtube.com/channel/UCIn3CucWk1mLgbzE0noO2Iw/videos) accounts for recent updates on their activities.
