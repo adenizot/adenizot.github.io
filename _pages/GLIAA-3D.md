@@ -25,8 +25,7 @@ The [AIstroSight](https://team.inria.fr/aistrosight/) team develops innovative c
 
 ### Shape Analysis Group, School of Computer Science and Centre for Intelligent Machines, McGill University, Canada
 The [Shape Analysis Group](https://cim.mcgill.ca/~shape/) is interested in biological shape analysis using applied mathematics and computer vision. Members of the team involved in the GLIAA-3D project are:
-- Pr. Kaleem Siddiqi, professor, School of Computer Science and Centre for Intelligent Machines, McGill University, Montréal, Canada. 
-Expertise: shape analysis, computer vision, machine learning.
+- Pr. Kaleem Siddiqi, professor. Expertise: shape analysis, computer vision, machine learning.
 - Megan Ng, PhD student. Expertise: neuroscience, machine learning, vision-based approaches.
 - Tabish Syed, Postdoctoral fellow. Expertise: shape analysis, neuroscience, machine learning, scientific computing
 
