@@ -19,20 +19,20 @@ List of researchers involved in the project.
 
 ### AIstroSight team, Inria, France
 The [AIstroSight](https://team.inria.fr/aistrosight/) team develops innovative computational methods for neuropharmacology and the discovery of new drug candidates to treat brain diseases. Members of the team involved in the GLIAA-3D project are:
-- Dr. Audrey Denizot, chargée de recherche (junior researcher). Expertise: computational modeling, neuroscience, astrocyte biology
-- Dr. Jan-Michael Rye, research engineer. Expertise: software development, scientific computing, web development
-- Florian Dupeuble, PhD student. Expertise: computational modeling, python
+- Dr. Audrey Denizot, chargée de recherche (junior researcher). Expertise: computational modeling, neuroscience, astrocyte biology.
+- Dr. Jan-Michael Rye, research engineer. Expertise: software development, scientific computing, web development.
+- Florian Dupeuble, PhD student. Expertise: computational modeling, python.
 
 ### Shape Analysis Group, School of Computer Science and Centre for Intelligent Machines, McGill University, Canada
 The [Shape Analysis Group](https://cim.mcgill.ca/~shape/) is interested in biological shape analysis using applied mathematics and computer vision. Members of the team involved in the GLIAA-3D project are:
 - Pr. Kaleem Siddiqi, professor, School of Computer Science and Centre for Intelligent Machines, McGill University, Montréal, Canada. 
 Expertise: shape analysis, computer vision, machine learning.
-- Megan Ng, PhD student. Expertise: neuroscience, machine learning, visionbased approaches.
+- Megan Ng, PhD student. Expertise: neuroscience, machine learning, vision-based approaches.
 - Tabish Syed, Postdoctoral fellow. Expertise: shape analysis, neuroscience, machine learning, scientific computing
 
 ### Other participants
 The GLIAA-3D team also involves two key external collaborators:
-- Dr. Anaïs Badoual, chargée de recherche, [SAIRPICO](https://team.inria.fr/serpico/) team, Inria, Rennes, France. Expertise: signal and image processing, computer vision, machine learning 
-- Pr. [Keith Murai](www.mcgill.ca/crn/research/murai), professor, centre for Research in Neuroscience, Department of Neurology and Neurosurgery, Brain Repair and Integrative Neuroscience Program, The Research Institute of the McGill University Health Centre, Montreal General Hospital. Expertise: neuroscience, astrocyte biology, electron microscopy
+- Dr. Anaïs Badoual, chargée de recherche, [SAIRPICO](https://team.inria.fr/serpico/) team, Inria, Rennes, France. Expertise: signal and image processing, computer vision, machine learning.
+- Pr. [Keith Murai](www.mcgill.ca/crn/research/murai), professor, centre for Research in Neuroscience, Department of Neurology and Neurosurgery, Brain Repair and Integrative Neuroscience Program, The Research Institute of the McGill University Health Centre, Montreal General Hospital. Expertise: neuroscience, astrocyte biology, electron microscopy.
 
 
