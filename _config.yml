@@ -205,6 +205,9 @@ collections:
   jobs:
     output: true
     permalink: /:collection/:path/
+  GLIAA-3D:
+    output: true
+    permalink: /:collection/:path/    
   resources:
     output: true
     permalink: /:collection/:path/
