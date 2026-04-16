@@ -4,7 +4,7 @@ title: "GLIAA-3D"
 permalink: /GLIAA-3D/
 ---
 # Geometrical Learning for Investigating Astrocyte Architecture with 3D models
-This is the website of the Inria - McGill GLIAA-3D Associate Team “Leveraging Synthetic Data”, led by Dr. Audrey Denizot (AIstroSight team, Inria) and Pr. Kaleem Siddiqi (Shape Analysis group, McGill University).
+This is the website of the Inria-McGill "GLIAA-3D" Associate Team, led by Dr. Audrey Denizot (AIstroSight team, Inria) and Pr. Kaleem Siddiqi (Shape Analysis Group, McGill University).
 
 The team aims to develop new mathematical and computational frameworks to characterize the diversity of the structure and connectivity of astrocytes and to investigate how it affects brain function.
 
