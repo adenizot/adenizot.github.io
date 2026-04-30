@@ -5,11 +5,7 @@ permalink: /jobs/
 ---
 You can find below current job offers in the lab. 
 
-We are currently recruiting an engineer to ["Implement an open-source data hub of 3D cell reconstructions and meshes"](https://recrutement.inria.fr/public/classic/en/offres/2026-09837).
-
-We will recruit a PhD student in 09/2025. The job offer will soon be posted on the website.
-
-We do not have open post-doc positions at the time. However, we will gladly assist early-career scientists in applying for fellowships, such as the [MSCA Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships).
+We do not have any PhD or post-doc funding at the time. However, we will gladly assist early-career scientists in applying for fellowships, such as the [MSCA Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships).
 
 Inria offers support to candidates who wish to apply to MSCA Postdoctoral Fellowships. More details can be found here, including a link to register for the information session that will take place on March 31st 2026 1-2 pm, Paris time. In this context, our team suggests two postdoc projects (see below). We are also open to any other projects that prospective candidates would like to work on.
 
